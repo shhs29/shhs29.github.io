@@ -55,33 +55,33 @@ about_content: | # this will include new lines to allow paragraphs
   A second year research based Master's in Computer Science student. Current research focuses on graph neural networks and its different applications. Enthusiastic about learning new architectures and literature in the machine learning field. Previously worked in the role of a  Consultant - Application Developer in ThoughtWorks, a global technology consultancy. 3 years of experience as a full-stack developer building scalable and robust applications.
 
 content:
-#  - title: Education # Title for the section
-#     layout: list
-#     content:
-#       - layout: left
-#         name: University of Ontario Institute of Technology
-#         dates: 2021 - 2023
-#         qualification: Master of Science in Computer Science
-#         quote: >
-#           Thesis-based Master's program
-#         description: | # this will include new lines to allow paragraphs
-#           - Participated in Java workshop conducted by Grey Technolabs
-#           - Participated in Python workshop conducted
-#           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
-#           - Core member of Senate (Organizing committee)
-#
-#       - layout: left
-#         name: Govt. Model Engineering College
-#         dates: 2014 - 2018
-#         qualification: B.Tech in Computer Science and Engineering
-#         quote: >
-#           A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
-#         description: | # this will include new lines to allow paragraphs
-#           - Participated in Java workshop conducted by Grey Technolabs
-#           - Participated in Python workshop conducted
-#           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
-#           - Core member of Senate (Organizing committee)
-#
+   - title: Education # Title for the section
+     layout: list
+     content:
+       - layout: left
+         name: University of Ontario Institute of Technology
+         dates: 2021 - 2023
+         qualification: Master of Science in Computer Science
+         quote: >
+           Thesis-based Master's program
+         description: | # this will include new lines to allow paragraphs
+           - Participated in Java workshop conducted by Grey Technolabs
+           - Participated in Python workshop conducted
+           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
+           - Core member of Senate (Organizing committee)
+
+       - layout: left
+         name: Govt. Model Engineering College
+         dates: 2014 - 2018
+         qualification: B.Tech in Computer Science and Engineering
+         quote: >
+           A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
+         description: | # this will include new lines to allow paragraphs
+           - Participated in Java workshop conducted by Grey Technolabs
+           - Participated in Python workshop conducted
+           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
+           - Core member of Senate (Organizing committee)
+
 #  - title: Research Experience # Title for the section
 #      layout: list
 #      content:
