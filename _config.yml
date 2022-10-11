@@ -252,12 +252,12 @@ content:
             A simple implementation of a TODO App <br>
             Technologies used: Angular
    - title: Publications # Title for the section
-       layout: list # Type of content section (list/text)
-       content:
-         - layout: top-middle
-           name: Sampling Enclosing Subgraphs for Link Prediction
-           description: | # this will include new lines to allow paragraphs
-             Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari, Sampling Enclosing Subgraphs for Link Prediction, *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
+     layout: list # Type of content section (list/text)
+     content:
+       - layout: top-middle
+         name: Sampling Enclosing Subgraphs for Link Prediction
+         description: | # this will include new lines to allow paragraphs
+           Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari, Sampling Enclosing Subgraphs for Link Prediction, *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
    - title: Workshops/Conferences Attended # Title for the section
      layout: list # Type of content section (list/text)
      content:
