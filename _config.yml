@@ -188,19 +188,19 @@ content:
      layout: list # Type of content section (list/text)
      content:
         - layout: top-middle
-          name: Sampling Enclosing Subgraphs for Link Prediction (ScaLed)
+          title: Sampling Enclosing Subgraphs for Link Prediction (ScaLed)
           description: | # this will include new lines to allow paragraphs
             Built a Subgraph Representation Learning framework that takes multiple random walks from target pair of nodes for link prediction. <br>
             Technologies used: Python, PyTorch, PyG, NetworkX
 
         - layout: top-middle
-          name: Signed Link Prediction
+          title: Signed Link Prediction
           description: | # this will include new lines to allow paragraphs
             Analysed and compared various signed link prediction methods with different representations to understand best pooling method and signed link prediction model. <br>
             Technologies used: Python, PyTorch, PyG
 
         - layout: top-middle
-          name: Rapid Prototyping
+          title: Rapid Prototyping
           description: | # this will include new lines to allow paragraphs
             - Worked on building multiple prototypes using open source tools.
             - Sentiment Analysis on ecommerce reviews in Spanish to generate commonly used keywords and keyphrases in the reviews to guide the customers to different sentiment based reviews and aid their purchase decision.
@@ -210,43 +210,43 @@ content:
           Technologies used: Python, HTML, CSS, Javascript, Hugging Face, spaCy, Flair, FastText
 
         - layout: top-middle
-          name: Asset Management System
+          title: Asset Management System
           description: | # this will include new lines to allow paragraphs
             A web application that manages the different assets in the company. <br>
             Technologies used: Angular, HTML, CSS, Javascript
 
         - layout: top-middle
-          name: Ecommerce backend
+          title: Ecommerce backend
           description: | # this will include new lines to allow paragraphs
             Handling api calls for orders and checkout flow in node.js. <br>
             Technologies used: Node.js
 
         - layout: top-middle
-          name: Budget and Forecasting
+          title: Budget and Forecasting
           description: | # this will include new lines to allow paragraphs
             A web application that helps in budgeting and forecasting of the company at various levels. <br>
             Technologies used: Java, HTML, CSS, SpringBoot, Angular, NgRx
 
         - layout: top-middle
-          name: An Intelligent Vision System for monitoring Security and Surveillance of ATM
+          title: An Intelligent Vision System for monitoring Security and Surveillance of ATM
           description: | # this will include new lines to allow paragraphs
             An automated surveillance system to protect and secure the atm machine from threats. <br>
             Technologies used: Django, Python, OpenCV
 
         - layout: top-middle
-          name: Student Teacher Management System
+          title: Student Teacher Management System
           description: | # this will include new lines to allow paragraphs
             Developed a website that helps teachers to manage the academic details and co-curricular activities of the students. <br>
             Technologies used: Django, Python, HTML, CSS
 
         - layout: top-middle
-          name: Home Automation System
+          title: Home Automation System
           description: | # this will include new lines to allow paragraphs
             Developed a mobile app to control the electrical devices in a household. A bluetooth module was used to establish communication between the mobile and the arduino board. <br>
             Technologies used: Android Studio, Arduino
 
         - layout: top-middle
-          name: TodoApp
+          title: TodoApp
           github: shhs29/TodoApp
           description: | # this will include new lines to allow paragraphs
             A simple implementation of a TODO App <br>
@@ -255,9 +255,10 @@ content:
      layout: list # Type of content section (list/text)
      content:
        - layout: top-middle
-         name: Sampling Enclosing Subgraphs for Link Prediction
+         title: Sampling Enclosing Subgraphs for Link Prediction
+         subtitle:  Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari
          description: | # this will include new lines to allow paragraphs
-           Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari, Sampling Enclosing Subgraphs for Link Prediction, *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
+           *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
    - title: Workshops/Conferences Attended # Title for the section
      layout: list # Type of content section (list/text)
      content:
