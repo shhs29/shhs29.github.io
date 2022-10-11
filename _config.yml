@@ -84,86 +84,86 @@ content:
            - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
            - Core member of Senate (Organizing committee)
 
-#  - title: Research Experience # Title for the section
-#      layout: list
-#      content:
-#        - layout: left
-#          company: University of Ontario Institute of Technology
-#          link: https://ontariotechu.ca/
-#          job_title: Graduate Research Assistant
-#          dates: September 2021 - Present
-#          quote: >
-#            Public Research University
-#          description: | # this will include new lines to allow paragraphs
-#            - Working at SAIN lab under the supervision of Dr. Amirali Salehi-Abari on Graph Neural Networks.
-#            - Worked on a research paper ``Sampling Enclosing Subgraphs for Link Prediction" with my supervisor and peers which was accepted in CIKM'22 short paper research track with an acceptance rate of 29.03%.
-#            - Organizing, leading and attending weekly reading groups that discuss the latest literature in graph neural networks.
-#            - Writing literature reports of relevant research papers.
-#            - Guided undergraduate students in the lab server setup and maintenance process.
-#            - Received FBIT Student Research-Enhancement Travel Fund and SIGWeb Travel Grant to attend CIKM'22.
-#  - title: Industry Experience # Title for the section
-#      layout: list # Type of content section (list/text)
-#      content:
-#        - layout: left
-#          company: ThoughtWorks
-#          link: https://www.thoughtworks.com/
-#          job_title: Application Developer
-#          dates: August 2018 - July 2021
-#          quote: >
-#            A Global Software Consultancy
-#          description: | # this will include new lines to allow paragraphs
-#            - Working in an agile framework.
-#            - Building applications using test-driven development.
-#            - Building Restful APIs in Java using Springboot.
-#            - Working on client-side programming.
-#            - Implementing state management in applications.
-#            - Building web applications end-to-end using microservices architecture.
-#            - Setting deployment pipelines.
-#            - Building prototypes.
-#            - Mentoring interns and new graduates within the organization.
-#            - Receiving and giving feedback.
-#            - Helping in recruiting new talent to the organization.
-#
-#        - layout: left
-#          company: UST Global
-#          link: https://www.ust-global.com/
-#          job_title: Intern
-#          dates: June 2017 - July 2017
-#          quote: >
-#            UST Global is a multinational provider IT services and solutions.
-#          description: | # this will include new lines to allow paragraphs
-#            - Learnt how blockchain can be used to solve logistics - truck route optimization problem.
-#            - Familiarised with how to train a bot using wit.ai.
-#            - Proposed an area of development using Bot to Bot communication and recommender systems.
-#
-#        - layout: left
-#          company: Gas Turbine Research Establishment, DRDO
-#          link: https://www.drdo.gov.in/home
-#          job_title: Intern
-#          dates: May 2017 - June 2017
-#          quote: >
-#            The Defence Research and Development Organisation is an agency of the Government of India, charged with the military's research and development.
-#          description: | # this will include new lines to allow paragraphs
-#            - Automatic Software Change Request Generation - Developed a software to generate a formal Software Change Request which is used to initiate changes in constants, control schedules and control laws in other softwares.
-#
-#
-#  - title: Teaching Experience # Title for the section
-#      layout: list # Type of content section (list/text)
-#      content:
-#        - layout: left
-#          company: University of Ontario Institute of Technology
-#          link: https://ontariotechu.ca/
-#          job_title: Teaching Assistant
-#          dates: September 2021 - Present
-#          quote: >
-#            Public Research University
-#          description: | # this will include new lines to allow paragraphs
-#            - Fall 2022 - BUSI 1916U Business Math II
-#            - Fall 2022 - INFR 1010U Discrete Mathematics
-#            - Summer 2022 - INFR 1010U Discrete Mathematics
-#            - Winter 2022 - INFR 1016U Introductory Calculus
-#            - Fall 2021 - INFR 1010U Discrete Mathematics
-#            - Conducting tutorials, grading quizzes, tests and assignments and holding student hours for classes with upto 120+ students.
+  - title: Research Experience # Title for the section
+    layout: list
+    content:
+      - layout: left
+        title: University of Ontario Institute of Technology
+        link: https://ontariotechu.ca/
+        subtitle: Graduate Research Assistant
+        dates: September 2021 - Present
+        quote: >
+          Public Research University
+        description: | # this will include new lines to allow paragraphs
+          - Working at SAIN lab under the supervision of Dr. Amirali Salehi-Abari on Graph Neural Networks.
+          - Worked on a research paper ``Sampling Enclosing Subgraphs for Link Prediction" with my supervisor and peers which was accepted in CIKM'22 short paper research track with an acceptance rate of 29.03%.
+          - Organizing, leading and attending weekly reading groups that discuss the latest literature in graph neural networks.
+          - Writing literature reports of relevant research papers.
+          - Guided undergraduate students in the lab server setup and maintenance process.
+          - Received FBIT Student Research-Enhancement Travel Fund and SIGWeb Travel Grant to attend CIKM'22.
+  - title: Industry Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: ThoughtWorks
+        link: https://www.thoughtworks.com/
+        subtitle: Application Developer
+        dates: August 2018 - July 2021
+        quote: >
+          A Global Software Consultancy
+        description: | # this will include new lines to allow paragraphs
+          - Working in an agile framework.
+          - Building applications using test-driven development.
+          - Building Restful APIs in Java using Springboot.
+          - Working on client-side programming.
+          - Implementing state management in applications.
+          - Building web applications end-to-end using microservices architecture.
+          - Setting deployment pipelines.
+          - Building prototypes.
+          - Mentoring interns and new graduates within the organization.
+          - Receiving and giving feedback.
+          - Helping in recruiting new talent to the organization.
+
+      - layout: left
+        title: UST Global
+        link: https://www.ust-global.com/
+        subtitle: Intern
+        dates: June 2017 - July 2017
+        quote: >
+          UST Global is a multinational provider IT services and solutions.
+        description: | # this will include new lines to allow paragraphs
+          - Learnt how blockchain can be used to solve logistics - truck route optimization problem.
+          - Familiarised with how to train a bot using wit.ai.
+          - Proposed an area of development using Bot to Bot communication and recommender systems.
+
+      - layout: left
+        title: Gas Turbine Research Establishment, DRDO
+        link: https://www.drdo.gov.in/home
+        subtitle: Intern
+        dates: May 2017 - June 2017
+        quote: >
+          The Defence Research and Development Organisation is an agency of the Government of India, charged with the military's research and development.
+        description: | # this will include new lines to allow paragraphs
+          - Automatic Software Change Request Generation - Developed a software to generate a formal Software Change Request which is used to initiate changes in constants, control schedules and control laws in other softwares.
+
+
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Ontario Institute of Technology
+        link: https://ontariotechu.ca/
+        subtitle: Teaching Assistant
+        dates: September 2021 - Present
+        quote: >
+          Public Research University
+        description: | # this will include new lines to allow paragraphs
+          - Fall 2022 - BUSI 1916U Business Math II
+          - Fall 2022 - INFR 1010U Discrete Mathematics
+          - Summer 2022 - INFR 1010U Discrete Mathematics
+          - Winter 2022 - INFR 1016U Introductory Calculus
+          - Fall 2021 - INFR 1010U Discrete Mathematics
+          - Conducting tutorials, grading quizzes, tests and assignments and holding student hours for classes with upto 120+ students.
 #  - title: Skills # Title for the section
 #      layout: list # Type of content section (list/text)
 #      content:
