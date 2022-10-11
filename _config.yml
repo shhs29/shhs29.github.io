@@ -59,21 +59,23 @@ content:
      layout: list
      content:
        - layout: left
-         name: University of Ontario Institute of Technology
+         title: University of Ontario Institute of Technology
          dates: 2021 - 2023
-         qualification: Master of Science in Computer Science
+         subtitle: Master of Science in Computer Science
          quote: >
            Thesis-based Master's program
          description: | # this will include new lines to allow paragraphs
-           - Participated in Java workshop conducted by Grey Technolabs
-           - Participated in Python workshop conducted
-           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
-           - Core member of Senate (Organizing committee)
+           Courses Taken:
+           - CSCI 5010G: Survey of Computer Science Research Topics & Methods (Fall 2021)
+           - CSCI 6520G: Graph Representation Learning (Fall 2021)
+           - CSCI 5730G: Topics in Data Mining (Fall 2021)
+           - CSCI 5020G: Collaborative Design & Research (Winter 2022)
+           - CSCI 5760G: Information & Social Networks (Winter 2022)
 
        - layout: left
-         name: Govt. Model Engineering College
+         title: Govt. Model Engineering College
          dates: 2014 - 2018
-         qualification: B.Tech in Computer Science and Engineering
+         subtitle: B.Tech in Computer Science and Engineering
          quote: >
            A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
          description: | # this will include new lines to allow paragraphs
