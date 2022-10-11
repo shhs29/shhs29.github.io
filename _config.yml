@@ -50,7 +50,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   A second year research based Master's in Computer Science student. Current research focuses on graph neural networks and its different applications. Enthusiastic about learning new architectures and literature in the machine learning field. Previously worked in the role of a  Consultant - Application Developer in ThoughtWorks, a global technology consultancy. 3 years of experience as a full-stack developer building scalable and robust applications.
 
