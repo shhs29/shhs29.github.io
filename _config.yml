@@ -167,22 +167,30 @@ content:
    - title: Skills # Title for the section
      layout: list # Type of content section (list/text)
      content:
-        - layout: top-middle
-          title: Super awesome project
-          link: github.com/sproogen
-          # link_text: Project Website
-          additional_links:
-            - title: sproogen/modern-resume-theme
-              icon: fab fa-github
-              url: github.com/sproogen/modern-resume-theme
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          quote: >
-            This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        - layout: left
+          title: Programming languages
           description: | # this will include new lines to allow paragraphs
-            I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+            Python, Java, JavaScript, SQL
+        - layout: left
+          title: Web Development
+          description: | # this will include new lines to allow paragraphs
+              HTML, CSS, Angular, NgRx
+        - layout: left
+          title: Tools/Frameworks
+          description: | # this will include new lines to allow paragraphs
+              Pytorch, Git, Springboot, Django, OpenCV, Docker, LabVIEW
+        - layout: left
+          title: Network Visualisation/Analysis Tools
+          description: | # this will include new lines to allow paragraphs
+              NetworkX, NetLogo, Gephi
+        - layout: left
+          title: Familiar With
+          description: | # this will include new lines to allow paragraphs
+              Numpy, Pandas, Jira, Trello, Confluence, Bitbucket, GitHub, GitLab
+        - layout: left
+          title: Operating Systems
+          description: | # this will include new lines to allow paragraphs
+              Linux, Windows, MacOS 
 
    - title: Projects # Title for the section
      layout: list # Type of content section (list/text)
@@ -258,7 +266,7 @@ content:
          title: Sampling Enclosing Subgraphs for Link Prediction
          subtitle:  Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari
          description: | # this will include new lines to allow paragraphs
-           *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
+           Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari, Sampling Enclosing Subgraphs for Link Prediction, *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
    - title: Workshops/Conferences Attended # Title for the section
      layout: list # Type of content section (list/text)
      content:
@@ -320,7 +328,11 @@ content:
    - title: A Little More About Me
      layout: text
      content: | # this will include new lines to allow paragraphs
-        Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+        Some things that I love: <br>
+
+        - Reading articles written by Martin Fowler, Chief Scientist at ThoughtWorks.
+        - Reading more about clean code and agile programming.
+        - Playing foosball and table tennis.
 #      - Rock climbing
 #      - Gaming
 #      - Knitting
