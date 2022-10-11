@@ -330,13 +330,10 @@ content:
      content: | # this will include new lines to allow paragraphs
         Some things that I love: <br>
 
-        - Reading articles written by Martin Fowler, Chief Scientist at ThoughtWorks.
-        - Reading more about clean code and agile programming.
-        - Playing foosball and table tennis.
-#      - Rock climbing
-#      - Gaming
-#      - Knitting
-#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        - Reading about clean code and agile programming.
+        - Reading blogs and articles of latest research advancements.
+        - Cooking different cuisines.
+        - Playing video games.
 #
 #      Look at this cool image
 #      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
