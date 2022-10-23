@@ -178,7 +178,7 @@ content:
             description: | # this will include new lines to allow paragraphs
               - Functions Grade 11 (based on Nelson Functions 11 Textbook)
               - Advanced Functions Grade 12 (based on Nelson Advanced Functions 12 Textbook)
-              - Covered topics including but not limited to Quadratic Functions, Exponential Functions, Trigonometric Functions, Sinusoidal Functions, Logarithmic Functions, Polynomial and Rational Functions.
+              - Covered topics including but not limited to Quadratic Functions, Exponential Functions, <br> Trigonometric Functions, Sinusoidal Functions, Logarithmic Functions, Polynomial and Rational Functions.
    - title: Skills # Title for the section
      layout: list # Type of content section (list/text)
      content:
@@ -313,9 +313,25 @@ content:
      layout: text # Type of content section (list/text)
      content: |
         - <mark> FBIT Student Research-Enhancement Travel Fund </mark>. Received Faculty of Business and Information Technology Student Research-Enhancement Travel Fund to attend CIKM'22 for paper acceptance. (2022)
-#   - title: Languages # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
+   - title: Languages # Title for the section
+     layout: list # Type of content section (list/text)
+     content:
+        - layout: left
+          title: English
+          description: | # this will include new lines to allow paragraphs
+            Native or bilingual proficiency
+        - layout: left
+          title: Malayalam
+          description: | # this will include new lines to allow paragraphs
+            Native or bilingual proficiency
+        - layout: left
+          title: Hindi
+          description: | # this will include new lines to allow paragraphs
+            Native or bilingual proficiency
+        - layout: left
+          title: Arabic
+          description: | # this will include new lines to allow paragraphs
+            Elementary proficiency
 #        - layout: top-middle
 #          title: Super awesome project
 #          link: github.com/sproogen
