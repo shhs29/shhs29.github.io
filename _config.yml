@@ -227,6 +227,7 @@ content:
      content:
         - layout: top-middle
           title: Sampling Enclosing Subgraphs for Link Prediction (ScaLed)
+          link: https://github.com/venomouscyanide/ScaLed
           description: | # this will include new lines to allow paragraphs
             Built a Subgraph Representation Learning framework that takes multiple random walks from target pair of nodes for link prediction. <br>
             Technologies used: Python, PyTorch, PyG, NetworkX
