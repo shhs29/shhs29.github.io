@@ -275,11 +275,11 @@ content:
          subtitle:  Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari
          description: | # this will include new lines to allow paragraphs
            Paul Louis, Shweta Ann Jacob & Amirali Salehi-Abari, Sampling Enclosing Subgraphs for Link Prediction, *In Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM ’22), October 17–21, 2022, Atlanta, GA, USA.* <br>
-#   - title: Workshops/Conferences Attended # Title for the section
-#     layout: text # Type of content section (list/text)
-#     content: |
-#       - Attended Stanford Graph Learning Workshop. (2021, 2022)
-#       - Attended the XConf conference conducted by ThoughtWorks. (2019)
+   - title: Workshops/Conferences Attended # Title for the section
+     layout: text # Type of content section (list/text)
+     content: |
+       - Attended Stanford Graph Learning Workshop. (2021, 2022)
+       - Attended the XConf conference conducted by ThoughtWorks. (2019)
 
 #   - title: Achievements and Extracurricular Accolades # Title for the section
 #     layout: list # Type of content section (list/text)
