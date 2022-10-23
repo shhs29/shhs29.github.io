@@ -33,7 +33,7 @@ googlescholar_username: OTej8BUAAAAJ
 # Additional icon links
 additional_links:
 - title: SAIN Lab
-#  icon: fas fa-globe
+  icon: fa-sharp fa-solid fa-user
   url: https://www.sain.ca/authors/shweta-ann-jacob/
 #- title: Scholar Profile
 ##  icon: fas fa-globe
@@ -282,12 +282,9 @@ content:
        - Attended the XConf conference conducted by ThoughtWorks. (2019)
 
    - title: Achievements and Extracurricular Accolades # Title for the section
-     layout: list # Type of content section (list/text)
-     content:
-        - layout: left
-          title: 2022
-          description: | # this will include new lines to allow paragraphs
-            - <mark> FBIT Student Research-Enhancement Travel Fund </mark>. Received Faculty of Business and Information Technology Student Research-Enhancement Travel Fund to attend CIKM'22 for paper acceptance.
+     layout: text # Type of content section (list/text)
+     content: |
+        - <mark> FBIT Student Research-Enhancement Travel Fund </mark>. Received Faculty of Business and Information Technology Student Research-Enhancement Travel Fund to attend CIKM'22 for paper acceptance. (2022)
 #   - title: Languages # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
