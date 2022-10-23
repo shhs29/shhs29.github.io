@@ -60,8 +60,9 @@ content:
      content:
        - layout: left
          title: University of Ontario Institute of Technology
-         dates: 2021 - 2023
-         subtitle: Master of Science in Computer Science
+         sub_title: Master of Science in Computer Science
+         link: https://ontariotechu.ca/
+         caption: Sept 2021 - Aug 2023 (expected)
          quote: >
            Thesis-based Master's program
          description: | # this will include new lines to allow paragraphs
@@ -74,8 +75,9 @@ content:
 
        - layout: left
          title: Govt. Model Engineering College
-         dates: 2014 - 2018
-         subtitle: B.Tech in Computer Science and Engineering
+         sub_title: B.Tech in Computer Science and Engineering
+         link: http://www.mec.ac.in/
+         caption: Aug 2014 - May 2018
          quote: >
            A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
          description: | # this will include new lines to allow paragraphs
@@ -204,6 +206,7 @@ content:
      content:
         - layout: top-middle
           title: PyTorch Geometric (PyG)
+          link: https://github.com/pyg-team/pytorch_geometric
           description: | # this will include new lines to allow paragraphs
             Participated in the community sprint of PyTorch Geometric to add missing typehints and TorchScript support. <br>
             Added typehints and TorchScript support for: <br>
