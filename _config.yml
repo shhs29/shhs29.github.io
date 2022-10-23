@@ -33,7 +33,7 @@ googlescholar_username: OTej8BUAAAAJ
 # Additional icon links
 additional_links:
 - title: SAIN Lab
-  icon: fa-sharp fa-solid fa-user
+  icon: fas fa-user
   url: https://www.sain.ca/authors/shweta-ann-jacob/
 #- title: Scholar Profile
 ##  icon: fas fa-globe
@@ -235,7 +235,7 @@ content:
             - Content Checking System to ensure the vendors enter relevant information for their products when adding a new product into the ecommerce platform.
             - Substitute Recommendation for ecommerce website which recommends substitute items, in case of unavailability of original product for which an order was placed, by creating a product similarity score between items based on similarity of title, price and availability.
             - Live Streaming Platform that provides customers an easy way of interacting with the host and buying the products in the livestream. <br>
-          Technologies used: Python, HTML, CSS, Javascript, Hugging Face, spaCy, Flair, FastText
+            Technologies used: Python, HTML, CSS, Javascript, Hugging Face, spaCy, Flair, FastText
 
         - layout: top-middle
           title: Asset Management System
