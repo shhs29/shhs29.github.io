@@ -172,7 +172,7 @@ content:
         - layout: left
           title: Self-Employed
           sub_title: Tutor
-          caption: September 2021 - Present
+#          caption: September 2021 - Present
           quote: >
             Offering tutoring in various Math subjects
           description: | # this will include new lines to allow paragraphs
