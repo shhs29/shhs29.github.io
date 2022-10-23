@@ -287,8 +287,7 @@ content:
         - layout: left
           title: 2022
           description: | # this will include new lines to allow paragraphs
-            <mark> FBIT Student Research-Enhancement Travel Fund </mark>. Received Faculty of Business and Information Technology Student Research-Enhancement Travel Fund to attend CIKM'22 for paper acceptance.
-
+            - <mark> FBIT Student Research-Enhancement Travel Fund </mark>. Received Faculty of Business and Information Technology Student Research-Enhancement Travel Fund to attend CIKM'22 for paper acceptance.
 #   - title: Languages # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
