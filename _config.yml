@@ -169,6 +169,16 @@ content:
             - Winter 2022 - INFR 1016U Introductory Calculus
             - Fall 2021 - INFR 1010U Discrete Mathematics
             - Conducting tutorials, grading quizzes, tests and assignments and holding student hours for classes with upto 120+ students.
+        - layout: left
+            title: Self-Employed
+            sub_title: Tutor
+            caption: September 2021 - Present
+            quote: >
+              Offering tutoring in various Math subjects
+            description: | # this will include new lines to allow paragraphs
+              - Functions Grade 11 (based on Nelson Functions 11 Textbook)
+              - Advanced Functions Grade 12 (based on Nelson Advanced Functions 12 Textbook)
+              - Covered topics including but not limited to Quadratic Functions, Exponential Functions, Trigonometric Functions, Sinusoidal Functions, Logarithmic Functions, Polynomial and Rational Functions.
    - title: Skills # Title for the section
      layout: list # Type of content section (list/text)
      content:
