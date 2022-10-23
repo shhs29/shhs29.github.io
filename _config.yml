@@ -172,6 +172,10 @@ content:
           description: | # this will include new lines to allow paragraphs
             Python, Java, JavaScript, SQL
         - layout: left
+          title: Open Source Conrtibution
+          description: | # this will include new lines to allow paragraphs
+            PyTorch Geometric
+        - layout: left
           title: Web Development
           description: | # this will include new lines to allow paragraphs
               HTML, CSS, Angular, NgRx
@@ -180,13 +184,17 @@ content:
           description: | # this will include new lines to allow paragraphs
               Pytorch, Git, Springboot, Django, OpenCV, Docker, LabVIEW
         - layout: left
+          title: Testing Frameworks
+          description: | # this will include new lines to allow paragraphs
+            JUnit, Jest
+        - layout: left
           title: Network Visualisation/Analysis Tools
           description: | # this will include new lines to allow paragraphs
               NetworkX, NetLogo, Gephi
         - layout: left
           title: Familiar With
           description: | # this will include new lines to allow paragraphs
-              Numpy, Pandas, Jira, Trello, Confluence, Bitbucket, GitHub, GitLab
+              Numpy, Pandas, Beautiful Soup, Jira, Trello, Confluence, Bitbucket, GitHub, GitLab
         - layout: left
           title: Operating Systems
           description: | # this will include new lines to allow paragraphs
