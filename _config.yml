@@ -230,6 +230,7 @@ content:
           description: | # this will include new lines to allow paragraphs
             Participated in the community sprint of PyTorch Geometric to add missing typehints and TorchScript support. <br>
             Added typehints and TorchScript support for: <br>
+            - <mark> nn.SAGPooling </mark>
             - <mark> nn.EdgePooling </mark>
             - <mark> nn.max_pool </mark>
             - <mark> nn.avg_pool </mark>
