@@ -58,54 +58,6 @@ about_content: | # this will include new lines to allow paragraphs
   A second year research based Master's in Computer Science student. Current research focuses on graph neural networks and its different applications. Enthusiastic about learning new architectures and literature in the machine learning field. Previously worked in the role of a  Consultant - Application Developer in ThoughtWorks, a global technology consultancy. 3 years of experience as a full-stack developer building scalable and robust applications.
 
 content:
-   - title: Education # Title for the section
-     layout: list
-     content:
-       - layout: left
-         title: University of Ontario Institute of Technology
-         sub_title: Master of Science in Computer Science
-         link: https://ontariotechu.ca/
-         caption: September 2021 - August 2023 (expected)
-         quote: >
-           Thesis-based Master's program
-         description: | # this will include new lines to allow paragraphs
-           Courses Taken:
-           - CSCI 5010G: Survey of Computer Science Research Topics & Methods (Fall 2021)
-           - CSCI 6520G: Graph Representation Learning (Fall 2021)
-           - CSCI 5730G: Topics in Data Mining (Fall 2021)
-           - CSCI 5020G: Collaborative Design & Research (Winter 2022)
-           - CSCI 5760G: Information & Social Networks (Winter 2022)
-
-       - layout: left
-         title: Govt. Model Engineering College
-         sub_title: B.Tech in Computer Science and Engineering
-         link: http://www.mec.ac.in/
-         caption: August 2014 - May 2018
-         quote: >
-           A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
-         description: | # this will include new lines to allow paragraphs
-           - Participated in Java workshop conducted by Grey Technolabs
-           - Participated in Python workshop conducted
-           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
-           - Core member of Senate (Organizing committee)
-
-   - title: Research Experience # Title for the section
-     layout: list
-     content:
-        - layout: left
-          title: University of Ontario Institute of Technology
-          sub_title: Graduate Research Assistant
-          link: https://ontariotechu.ca/
-          caption: September 2021 - August 2023
-          quote: >
-            Public Research University
-          description: | # this will include new lines to allow paragraphs
-            - Working at SAIN lab under the supervision of Dr. Amirali Salehi-Abari on Graph Neural Networks.
-            - Worked on a research paper ``Sampling Enclosing Subgraphs for Link Prediction" with my supervisor and peers which was accepted in CIKM'22 short paper research track with an acceptance rate of 29.03%.
-            - Organizing, leading and attending weekly reading groups that discuss the latest literature in graph neural networks.
-            - Writing literature reports of relevant research papers.
-            - Guided undergraduate students in the lab server setup and maintenance process.
-            - Received FBIT Student Research-Enhancement Travel Fund and SIGWeb Travel Grant to attend CIKM'22.
    - title: Industry Experience # Title for the section
      layout: list # Type of content section (list/text)
      content:
@@ -164,6 +116,54 @@ content:
           description: | # this will include new lines to allow paragraphs
             - Automatic Software Change Request Generation - Developed a software to generate a formal Software Change Request which is used to initiate changes in constants, control schedules and control laws in other softwares.
 
+   - title: Education # Title for the section
+     layout: list
+     content:
+       - layout: left
+         title: University of Ontario Institute of Technology
+         sub_title: Master of Science in Computer Science
+         link: https://ontariotechu.ca/
+         caption: September 2021 - August 2023 (expected)
+         quote: >
+           Thesis-based Master's program
+         description: | # this will include new lines to allow paragraphs
+           Courses Taken:
+           - CSCI 5010G: Survey of Computer Science Research Topics & Methods (Fall 2021)
+           - CSCI 6520G: Graph Representation Learning (Fall 2021)
+           - CSCI 5730G: Topics in Data Mining (Fall 2021)
+           - CSCI 5020G: Collaborative Design & Research (Winter 2022)
+           - CSCI 5760G: Information & Social Networks (Winter 2022)
+
+       - layout: left
+         title: Govt. Model Engineering College
+         sub_title: B.Tech in Computer Science and Engineering
+         link: http://www.mec.ac.in/
+         caption: August 2014 - May 2018
+         quote: >
+           A skill oriented course where I undertook a plethora of challenging core Computer Science courses and projects
+         description: | # this will include new lines to allow paragraphs
+           - Participated in Java workshop conducted by Grey Technolabs
+           - Participated in Python workshop conducted
+           - Attended a Workshop on Web development held by MEC Association of Computer Students (MACS)
+           - Core member of Senate (Organizing committee)
+
+   - title: Research Experience # Title for the section
+     layout: list
+     content:
+        - layout: left
+          title: University of Ontario Institute of Technology
+          sub_title: Graduate Research Assistant
+          link: https://ontariotechu.ca/
+          caption: September 2021 - August 2023
+          quote: >
+            Public Research University
+          description: | # this will include new lines to allow paragraphs
+            - Working at SAIN lab under the supervision of Dr. Amirali Salehi-Abari on Graph Neural Networks.
+            - Worked on a research paper ``Sampling Enclosing Subgraphs for Link Prediction" with my supervisor and peers which was accepted in CIKM'22 short paper research track with an acceptance rate of 29.03%.
+            - Organizing, leading and attending weekly reading groups that discuss the latest literature in graph neural networks.
+            - Writing literature reports of relevant research papers.
+            - Guided undergraduate students in the lab server setup and maintenance process.
+            - Received FBIT Student Research-Enhancement Travel Fund and SIGWeb Travel Grant to attend CIKM'22.
 
    - title: Teaching Experience # Title for the section
      layout: list # Type of content section (list/text)
