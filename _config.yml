@@ -61,18 +61,18 @@ content:
    - title: Industry Experience # Title for the section
      layout: list # Type of content section (list/text)
      content:
-         - layout: left
-           title: Red Wireless
-           sub_title: Data Analyst
-           link: https://www.redwireless.ca/
-           caption: September 2023 - Present
-           quote: >
-             Rogers Authorized Dealer
-           description: | # this will include new lines to allow paragraphs
-             - 
-             - 
-             - 
-             - 
+        - layout: left
+          title: Red Wireless
+          sub_title: Data Analyst
+          link: https://www.redwireless.ca/
+          caption: September 2023 - Present
+          quote: >
+            Rogers Authorized Dealer
+          description: | # this will include new lines to allow paragraphs
+            - 
+            - 
+            - 
+            - 
 
         - layout: left
           title: ThoughtWorks
