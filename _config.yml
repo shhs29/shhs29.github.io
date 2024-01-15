@@ -69,7 +69,7 @@ content:
           quote: >
             Rogers Authorized Dealer
           description: | # this will include new lines to allow paragraphs
-            - Conducted exploratory data analysis on large datasets to uncover trends and insights.
+            - Conducted exploratory data analysis on datasets to uncover trends and insights.
             - Implemented strategies to improve data consistency, ensuring uniformity and reliability across datasets.
             - Led data cleanup initiatives, identifying and rectifying inconsistencies to enhance overall data quality.
             - Utilized data from various systems to derive meaningful insights and support decision-making process of various business units.
