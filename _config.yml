@@ -71,11 +71,10 @@ content:
           description: | # this will include new lines to allow paragraphs
             - Conducted exploratory data analysis on datasets to uncover trends and insights.
             - Implemented strategies to improve data consistency, ensuring uniformity and reliability across datasets.
-            - Led data cleanup initiatives, identifying and rectifying inconsistencies to enhance overall data quality.
+            - Led data cleanup initiatives, analyzed missing data and implemented strategies to address gaps in datasets and enhance overall data quality.
             - Utilized data from various systems to derive meaningful insights and support decision-making process of various business units.
             - Provided valuable insights into various teams’ productivity through data analysis and reporting.
             - Prepared comprehensive reports on various company campaigns, offering detailed analysis and performance metrics.
-            - Specialized in analyzing missing data, implementing strategies to address gaps in datasets.
             - Created visualizations and dashboards for effective data presentation.
             - Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver actionable insights.
             - Generate detailed commission reports, providing clear insights into sales performance and compensation structures.
