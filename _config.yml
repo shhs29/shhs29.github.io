@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Shweta Ann Jacob
-title: Software Developer/Data Analyst
+title: Data Analyst/Software Developer
 email: shweta.jacob@ontariotechu.net
 website: https://www.linkedin.com/in/shweta-ann-jacob/
 
@@ -55,7 +55,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Data Analyst with a strong foundation in software development and analyzing and interpreting complex datasets. Three-plus years of experience in building scalable and robust applications using agile methodology and test-driven development. Proficient in leveraging programming skills to extract meaningful insights and optimize data-driven processes. Proven ability to collaborate with cross-functional teams to understand business needs and provide innovative solutions. Seeking to bring a unique blend of data analysis and software development expertise to a challenging role as a Data Analyst.
+  Experienced Data Analyst with a strong foundation in software development and analyzing and interpreting complex datasets. Three-plus years of experience in building scalable and robust applications using agile methodologies and test-driven development. Proficient in leveraging programming skills to extract meaningful insights and optimize data-driven processes. Proven ability to collaborate with cross-functional teams to understand business needs and provide innovative solutions. Seeking to bring a unique blend of data analysis and software development expertise to a challenging role as a Data Analyst.
 
 content:
    - title: Industry Experience # Title for the section
