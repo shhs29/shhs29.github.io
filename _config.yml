@@ -134,6 +134,8 @@ content:
          quote: >
            Thesis-based Master's program
          description: | # this will include new lines to allow paragraphs
+           Thesis:
+           - Subgraph Classification through Neighborhood Pooling
            Courses Taken:
            - CSCI 5010G: Survey of Computer Science Research Topics & Methods (Fall 2021)
            - CSCI 6520G: Graph Representation Learning (Fall 2021)
