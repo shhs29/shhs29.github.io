@@ -69,16 +69,17 @@ content:
           quote: >
             Rogers Authorized Dealer
           description: | # this will include new lines to allow paragraphs
-            - Conducted exploratory data analysis on datasets to uncover trends and insights.
-            - Implemented strategies to improve data consistency, ensuring uniformity and reliability across datasets.
-            - Led data cleanup initiatives, analyzed missing data and implemented strategies to address gaps in datasets and enhance overall data quality.
-            - Utilized data from various systems to derive meaningful insights and support decision-making process of various business units.
+            - Played a key role in gathering data requirements from stakeholders, ensuring alignment with business objectives.
+            - Conducted exploratory data analysis to uncover sales and market trends in the wireless industry.
+            - Implemented strategies to improve data consistency, ensuring uniformity and reliability across data sources.
+            - Led data cleanup initiatives and analyzed missing data to address gaps in the database.
+            - Utilized data from third-party integrations to derive insights and support the decision-making process of different business units.
+            - Created visualizations and dashboards in Looker Studio for effective data presentation.
             - Provided valuable insights into various teams’ productivity through data analysis and reporting.
-            - Prepared comprehensive reports on various company campaigns, offering detailed analysis and performance metrics.
-            - Created visualizations and dashboards for effective data presentation.
-            - Collaborated with cross-functional teams to define key performance indicators (KPIs) and deliver actionable insights.
-            - Generate detailed commission reports, providing clear insights into sales performance and compensation structures.
-            - Worked closely with sales team to understand requirements and optimize reporting processes for enhanced efficiency.
+            - Prepared comprehensive reports on various marketing campaigns, offering detailed analysis on conversion rates, sales and other performance metrics.
+            - Collaborated with cross-functional teams to define key performance indicators (KPIs) and targets.
+            - Generate detailed commission reports, providing clear insights into sales performance and productivity.
+            - Worked closely with sales and operations/logistics team to understand requirements and optimize reporting processes for efficiency.
 
         - layout: left
           title: ThoughtWorks
