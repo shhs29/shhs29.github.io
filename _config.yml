@@ -128,14 +128,12 @@ content:
      content:
        - layout: left
          title: University of Ontario Institute of Technology
-         sub_title: Master of Science in Computer Science
+         sub_title: Master of Science in Computer Science | Thesis: Subgraph Classification through Neighborhood Pooling
          link: https://ontariotechu.ca/
          caption: September 2021 - August 2023 (expected)
          quote: >
            Thesis-based Master's program
          description: | # this will include new lines to allow paragraphs
-           Thesis:
-           - Subgraph Classification through Neighborhood Pooling |
            Courses Taken:
            - CSCI 5010G: Survey of Computer Science Research Topics & Methods (Fall 2021)
            - CSCI 6520G: Graph Representation Learning (Fall 2021)
